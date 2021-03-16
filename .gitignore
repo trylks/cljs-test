@@ -1,3 +1,27 @@
+node_modules/
+public/js
+
+/target
+/checkouts
+/src/gen
+
+pom.xml
+pom.xml.asc
+*.iml
+*.jar
+*.log
+.shadow-cljs
+.idea
+.lein-*
+.nrepl-*
+.DS_Store
+
+.hgignore
+.hg/
+
+
+# for Clojure - GitHub gave me this
+
 pom.xml
 pom.xml.asc
 *.jar
